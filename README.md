@@ -1,1 +1,2 @@
 # TugasML
+Saya membuat model untuk memprediksi kondisi kesehatan berdasarkan variabel seperti usia, denyut jantung, konsumsi rokok per hari, kadar kolesterol, tekanan darah sistolik, dan tekanan darah diastolik menggunakan regresi logistik. Model ini dapat memprediksi nilai target berdasarkan variabel-variabel prediktor yang tersedia. Tujuan model ini adalah untuk memprediksi kondisi kesehatan pasien berdasarkan informasi atau riwayat kesehatannya.
